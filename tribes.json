@@ -1,0 +1,130 @@
+[
+  {
+    "id": "amis",
+    "name": "阿美族",
+    "english": "Amis",
+    "variant": "海岸阿美語",
+    "romanization": "lahamham",
+    "audio": "audio/01-amis.wav"
+  },
+  {
+    "id": "saisiyat",
+    "name": "賽夏族",
+    "english": "Saisiyat",
+    "variant": "賽夏語",
+    "romanization": "wa_ila kaS_abo_",
+    "audio": "audio/02-saisiyat.wav"
+  },
+  {
+    "id": "seediq",
+    "name": "賽德克族",
+    "english": "Seediq",
+    "variant": "德固達雅賽德克語",
+    "romanization": "Sndamac su bale",
+    "audio": "audio/03-seediq.wav"
+  },
+  {
+    "id": "paiwan",
+    "name": "排灣族",
+    "english": "Paiwan",
+    "variant": "北排灣語",
+    "romanization": "maljimalji tanu pinangtjezan!",
+    "audio": "audio/04-paiwan.wav"
+  },
+  {
+    "id": "truku",
+    "name": "太魯閣族",
+    "english": "Truku",
+    "variant": "太魯閣語",
+    "romanization": "Saw qrasun bi sntrun munan",
+    "audio": "audio/05-truku.wav"
+  },
+  {
+    "id": "tsou",
+    "name": "鄒族",
+    "english": "Tsou",
+    "variant": "鄒語",
+    "romanization": "_ayeoveoneni",
+    "audio": "audio/06-tsou.wav"
+  },
+  {
+    "id": "tao",
+    "name": "雅美族／達悟族",
+    "english": "Tao",
+    "variant": "雅美語",
+    "romanization": "akes akokay",
+    "audio": "audio/07-tao.wav"
+  },
+  {
+    "id": "kanakanavu",
+    "name": "卡那卡那富族",
+    "english": "Kanakanavu",
+    "variant": "卡那卡那富語",
+    "romanization": "cii!mu_aravangaa",
+    "audio": "audio/08-kanakanavu.wav"
+  },
+  {
+    "id": "atayal",
+    "name": "泰雅族",
+    "english": "Atayal",
+    "variant": "賽考利克泰雅語",
+    "romanization": "pqasun simu mnaga",
+    "audio": "audio/09-atayal.wav"
+  },
+  {
+    "id": "thao",
+    "name": "邵族",
+    "english": "Thao",
+    "variant": "邵語",
+    "romanization": "utaunuan",
+    "audio": "audio/10-thao.wav"
+  },
+  {
+    "id": "bunun",
+    "name": "布農族",
+    "english": "Bunun",
+    "variant": "郡群布農語",
+    "romanization": "na_anpasdu",
+    "audio": "audio/11-bunun.wav"
+  },
+  {
+    "id": "rukai",
+    "name": "魯凱族",
+    "english": "Rukai",
+    "variant": "霧台魯凱語",
+    "romanization": "maelanenga kay takelane numi",
+    "audio": "audio/12-rukai.wav"
+  },
+  {
+    "id": "kavalan",
+    "name": "噶瑪蘭族",
+    "english": "Kavalan",
+    "variant": "噶瑪蘭語",
+    "romanization": "qalizaqan mawtu imu",
+    "audio": "audio/13-kavalan.wav"
+  },
+  {
+    "id": "puyuma",
+    "name": "卑南族",
+    "english": "Puyuma",
+    "variant": "知本卑南語",
+    "romanization": "semangalan",
+    "audio": "audio/14-puyuma.wav"
+  },
+  {
+    "id": "sakizaya",
+    "name": "撒奇萊雅族",
+    "english": "Sakizaya",
+    "variant": "撒奇萊雅語",
+    "romanization": "katalabu",
+    "audio": "audio/15-sakizaya.wav"
+  },
+  {
+    "id": "hlaalua",
+    "name": "拉阿魯哇族",
+    "english": "Hla’alua",
+    "variant": "拉阿魯哇語",
+    "romanization": "mariatara_ʉhla",
+    "audio": "audio/16-hlaalua.wav"
+  }
+]
